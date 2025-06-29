@@ -15,3 +15,21 @@ Uma Pokédex interativa desenvolvida com HTML, CSS e JavaScript puro, que permit
 - CSS3
 - JavaScript
 - PokéAPI
+  
+## 📁 Estrutura do Projeto
+
+📁 css/ -> Estilos da aplicação
+📁 js/ -> Scripts JavaScript (lógica da Pokédex)
+📁 images/ -> Imagens complementares
+📁 favicons/ -> Ícones e favicons do projeto
+📄 index.html -> Página principal
+
+bash
+Copiar
+Editar
+
+## 🚀 Como Usar
+
+1. Clone o repositório:
+```bash
+git clone https://github.com/SeuUsuario/Pokedex.js
